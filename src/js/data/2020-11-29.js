@@ -17,7 +17,7 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "3D-Pritned Naily",
+    name: "3D-Printed Naily",
     img: "iNfOeWF.png",
     opts: {
       stage: ["cast"]
@@ -105,6 +105,197 @@ dataSet[dataSetVersion].characterData = [
     img: "0lzYvui.png",
     opts: {
       stage: ["cast"]
+    }
+  },
+  {
+    name: "A Cube",
+    img: "PrCe9tP.png",
+    opts: {
+      stage: ["host"]
+    }
+  },
+  {
+    name: "Screeny",
+    img: "OdZLcri.png",
+    opts: {
+      stage: ["host"]
+    }
+  },
+
+
+  {
+    name: "Bandanna",
+    img: "VEMxKzQ.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Blanket",
+    img: "Blwm0Cs.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Candy Spray",
+    img: "2MTUWHM.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Caramel Apple",
+    img: "AInYyQr.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Cassette Tape",
+    img: "niC0vjY.png",
+    opts: {
+      stage: ["recs", "host"]
+    }
+  },
+  {
+    name: "Cuckoo Clock",
+    img: "amdIZNp.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Gamecube",
+    img: "rZjAOfP.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Jetpack",
+    img: "DSJT40D.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "KFC Bucket",
+    img: "YEQwjll.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Lossy",
+    img: "toHsVNh.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Marshmallow",
+    img: "LtahKxx.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Merit Badge",
+    img: "KTa6cgo.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Orange",
+    img: "YEwgJDM.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Otamatone",
+    img: "99ZYhPM.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Pizza",
+    img: "14KmMgF.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Projector",
+    img: "Fsxskvz.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Smash Ball",
+    img: "iv5SliU.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Spam",
+    img: "4ZOAyrX.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Super Mario World",
+    img: "yYrAcQ5.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Tape Measure",
+    img: "ByfdYT5.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Waluigi Glove",
+    img: "SB18oh6.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Water Balloon",
+    img: "0RqFXuM.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Whoopie Cushion",
+    img: "7S03DxQ.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "Wrench",
+    img: "5PjUbDX.png",
+    opts: {
+      stage: ["recs"]
+    }
+  },
+  {
+    name: "yes",
+    img: "AwjXhYj.png",
+    opts: {
+      stage: ["recs"]
     }
   }
 ];
